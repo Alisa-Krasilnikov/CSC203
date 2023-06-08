@@ -1,3 +1,3 @@
-﻿# project-5-csc203
+﻿#Java Project
  
- Final Project created for CSC 203 Cal Poly SLO with Dr. Rivera
+ Created for CSC 203 Cal Poly SLO with Dr. Rivera
